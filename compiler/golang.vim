@@ -109,7 +109,7 @@ function! Golang(writing)
     endif
 
     if g:golang_cwindow
-        cwindow
+        bo cwindow
     endif
 
 endfunction
