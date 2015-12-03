@@ -13,7 +13,7 @@ Installation:
 
 Just clone this repo into your bundles directory:
 
-    git clone https://github.com/rjohnsondev/vim-compiler-go.git ~/.vim/bundle/vim-compiler-go
+    git clone https://github.com/aolu11/vim-compiler-go.git ~/.vim/bundle/vim-compiler-go
 
 Either ensure the $GOROOT environment variable is set, or otherwise set the
 g:golang_goroot variable in .vimrc to where your go installation can be found.
